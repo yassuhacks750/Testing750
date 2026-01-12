@@ -8,7 +8,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "8554261771:AAFrCzQ9pLdjNzlc9r3tujkXNIzw
 
 CREDIT = os.environ.get("CREDIT", "PROFESSOR")
 # MongoDB Configuration
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "Autoappx")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "Yashxug")
 DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://yashxug:Yash2835P@yashxug.om3yk1q.mongodb.net/retryWrites=true&w=majority&appName=Yashxug")  # Add your own atlas db
 MONGO_URL = DATABASE_URL  # For auth system
 
@@ -59,16 +59,6 @@ Please contact the admin to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
-
-
-
-
-
-
-
-
-
-
 
 
 
